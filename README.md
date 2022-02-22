@@ -24,7 +24,7 @@ javascript: (() => {
 - Open the console (_it's look like setting icon_) 
 ![img](https://raw.githubusercontent.com/manho30/quizizz_cheat/main/assets/figure2.jpg)
 
-- Hit the bar below below to type the code. 
+- Hit the bar below to type the code. 
 ![img](https://raw.githubusercontent.com/manho30/quizizz_cheat/main/assets/figure3.jpg)
 
 - Type the code below and execute it. 
