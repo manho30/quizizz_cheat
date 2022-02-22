@@ -30,9 +30,15 @@ javascript: (() => {
 - Type the code below and execute it. 
 ![img](https://raw.githubusercontent.com/manho30/quizizz_cheat/main/assets/figure4.jpg)
 ```JavaScript
-fetch("https://raw.githubusercontent.com/manho30/quizizz_cheat/main/quizizz.js")
-    .then((res) => res.text()
-    .then((t) => eval(t)))
+(() => { 
+try{
+    fetch("https://raw.githubusercontent.com/manho30/quizizz_cheat/main/quizizz.js")
+        .then((res) => res.text()
+        .then((res) => eval(res)))
+    } catch (e) {
+        console.log(e)
+    } 
+}) ();
 ```
 
 You can now close the console. Now the good answer should be display in the question.
@@ -47,9 +53,15 @@ You can now close the console. Now the good answer should be display in the ques
 ![img](https://raw.githubusercontent.com/manho30/quizizz_cheat/main/assets/figure6.jpg)
 
 ``` javascript
-fetch("https://raw.githubusercontent.com/manho30/quizizz_cheat/main/quizizz.js")
-    .then((res) => res.text()
-    .then((t) => eval(t)))
+(() => { 
+try{
+    fetch("https://raw.githubusercontent.com/manho30/quizizz_cheat/main/quizizz.js")
+        .then((res) => res.text()
+        .then((res) => eval(res)))
+    } catch (e) {
+        console.log(e)
+    } 
+}) ();
 ```
 
 You can now close the console. Now the good answer should be display in the question. 
