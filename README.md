@@ -1,8 +1,8 @@
 # Usage
 Make sure you have enter to the quizizz.
-[Phone User (Android Chrome)]()
+[Phone User (Android Chrome)](https://github.com/manho30/quizizz_cheat#phone-user-android-chrome)
 
-[Pc User (Windows/Mac/Linux OS)]()
+[Pc User (Windows/Mac/Linux OS)](https://github.com/manho30/quizizz_cheat#pc-user-windowsmaclinux-os)
 
 
 
